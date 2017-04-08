@@ -1,2 +1,2 @@
 # textViewInputedByUIPickerViewDemo
-textViewInputedByUIPickerViewDemo For StackOverFlow Qustion
+textViewInputedByUIPickerViewDemo For StackOverFlow Question
